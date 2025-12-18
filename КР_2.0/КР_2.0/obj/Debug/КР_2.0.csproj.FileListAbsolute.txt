@@ -1,8 +1,0 @@
-D:\проекты VS\КР_2.0\КР_2.0\bin\Debug\КР_2.0.exe.config
-D:\проекты VS\КР_2.0\КР_2.0\bin\Debug\КР_2.0.exe
-D:\проекты VS\КР_2.0\КР_2.0\bin\Debug\КР_2.0.pdb
-D:\проекты VS\КР_2.0\КР_2.0\obj\Debug\КР_2.0.csproj.AssemblyReference.cache
-D:\проекты VS\КР_2.0\КР_2.0\obj\Debug\КР_2.0.csproj.CoreCompileInputs.cache
-D:\проекты VS\КР_2.0\КР_2.0\obj\Debug\КР_2.0.exe
-D:\проекты VS\КР_2.0\КР_2.0\obj\Debug\КР_2.0.pdb
-D:\проекты VS\КР_2.0\КР_2.0\obj\Debug\КР_2.0.exe.config
